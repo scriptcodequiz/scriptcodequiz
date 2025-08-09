@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">A Backend Programmer from Iran</h3>
 
+<ing align="right" alt="scriptcodequiz" width = "400"  src ="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptcodequiz&label=Profile%20views&color=0e75b6&style=flat" alt="scriptcodequiz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptcodequiz" alt="scriptcodequiz" /></a> </p>
